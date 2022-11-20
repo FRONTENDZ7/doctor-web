@@ -5,7 +5,7 @@
 **Страница написана с использованием БЭМ**
 
 **Ссылка на GitHub Pages:**
-*https://frontendz7.github.io/russian-travel/*
+*https://github.com/FRONTENDZ7/doctor-web*
 
 ---
 
