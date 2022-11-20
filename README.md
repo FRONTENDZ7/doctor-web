@@ -5,7 +5,7 @@
 **Страница написана с использованием БЭМ**
 
 **Ссылка на GitHub Pages:**
-*https://github.com/FRONTENDZ7/doctor-web*
+*https://frontendz7.github.io/doctor-web/*
 
 ---
 
